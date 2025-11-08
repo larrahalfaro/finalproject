@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "941753586839",
+    "project_id": "mobile-development-e8249",
+    "storage_bucket": "mobile-development-e8249.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941753586839:android:2722adafa819f4698fc5d2",
+        "android_client_info": {
+          "package_name": "com.example.ecotech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyrUO61Z0UwTxr_XSE7JtKx0jpZyMUTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941753586839:android:c4ea0264cbe075748fc5d2",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyrUO61Z0UwTxr_XSE7JtKx0jpZyMUTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
